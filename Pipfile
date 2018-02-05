@@ -14,6 +14,7 @@ verify_ssl = true
 future = "*"
 six = "*"
 requests = "*"
+maya = "*"
 
 
 [requires]
