@@ -1,6 +1,6 @@
 """Objects for authenticating with the GEL CIP API."""
 
-from __future__ import print_function
+from __future__ import print_function, absolute_import
 import requests
 import maya
 from auth_credentials import auth_credentials
